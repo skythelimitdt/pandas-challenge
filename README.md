@@ -3,9 +3,9 @@ Created and manipulated Pandas DataFrames to analyze school and standardized tes
 
 ## Project Overview
 As the newly appointed Chief Data Scientist for the city's school district, your role is to leverage data-driven insights to assist the school board and the mayor in making strategic decisions about school budgets, resource allocation, and educational priorities.
-<br>
+<br><br>
 Your first task is to analyze district-wide standardized test results to identify trends in student performance. You have access to a dataset containing math and reading scores for every student, along with additional school-related information such as budget, school size, and demographics.
-<br>
+<br><br>
 By aggregating and manipulating this data using Pandas DataFrames, your goal is to uncover patterns in school performance. This analysis will help stakeholders understand how different factors impact student outcomes and guide future decision-making to improve educational quality across the district.
 
 ## Written Report
